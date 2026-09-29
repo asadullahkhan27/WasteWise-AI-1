@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 from PIL import Image
 from transformers import pipeline
@@ -522,4 +521,4 @@ st.divider()
 st.caption(
     f"WasteWise AI | Model: {MODEL_NAME}"
 )
-```
+
